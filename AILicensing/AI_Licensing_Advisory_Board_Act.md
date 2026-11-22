@@ -15,7 +15,7 @@
 
 # H. R. ______
 
-To establish the Artificial Intelligence Licensing Advisory Board to study and make recommendations regarding a system of licensing for the development, production, and use of artificial intelligence, and for other purposes.
+To establish the Artificial Intelligence Licensing Advisory Board to study and make recommendations regarding a system of licensing for the development, production, and use of artificial intelligence and of artificial intelligence hardware, and for other purposes.
 
 ---
 
@@ -29,7 +29,7 @@ ______________, 2027
 
 # A BILL
 
-To establish the Artificial Intelligence Licensing Advisory Board to study and make recommendations regarding a system of licensing for the development, production, and use of artificial intelligence, and for other purposes.
+To establish the Artificial Intelligence Licensing Advisory Board to study and make recommendations regarding a system of licensing for the development, production, and use of artificial intelligence and of artificial intelligence hardware, and for other purposes.
 
 </div>
 
@@ -46,9 +46,10 @@ This Act may be cited as the "**Artificial Intelligence Licensing Advisory Board
 Congress finds the following:
 
 1. Artificial intelligence systems are being developed, produced, and deployed at a rapid pace and are increasingly used in matters affecting public safety, national security, the economy, civil rights, health, and the integrity of information.
-2. Federal and State law has long required licenses, certifications, or registrations for the production and use of technologies, materials, and professional services that carry significant risk to the public, including in the fields of nuclear materials, aviation, pharmaceuticals, medical devices, telecommunications, and the practice of medicine, law, and engineering.
-3. There is currently no comprehensive Federal framework for determining whether, or under what conditions, the development, production, or use of artificial intelligence should be subject to licensing, nor for ensuring compliance with and monitoring of any such licensing.
-4. Before Congress considers whether to establish such a framework, it would benefit from the independent, expert advice of individuals from academia and industry with deep knowledge of artificial intelligence and its technical, economic, legal, and societal implications.
+2. The development and operation of advanced artificial intelligence systems depend on specialized hardware, including advanced semiconductors and large-scale computing facilities, the design, manufacture, distribution, and operation of which are concentrated among a relatively small number of entities.
+3. Federal and State law has long required licenses, certifications, or registrations for the production and use of technologies, materials, and professional services that carry significant risk to the public, including in the fields of nuclear materials, aviation, pharmaceuticals, medical devices, telecommunications, and the practice of medicine, law, and engineering.
+4. There is currently no comprehensive Federal framework for determining whether, or under what conditions, the development, production, or use of artificial intelligence, or the production, distribution, possession, or operation of artificial intelligence hardware, should be subject to licensing, nor for ensuring compliance with and monitoring of any such licensing.
+5. Before Congress considers whether to establish such a framework, it would benefit from the independent, expert advice of individuals from academia and industry with deep knowledge of artificial intelligence, artificial intelligence hardware, and their technical, economic, legal, and societal implications.
 
 ## SEC. 3. ESTABLISHMENT.
 
@@ -56,19 +57,22 @@ There is established in the legislative branch an independent advisory board to 
 
 ## SEC. 4. DUTIES.
 
-**(a) IN GENERAL.**—The Board shall conduct a comprehensive study of, and develop recommendations regarding, whether and how the Federal Government should establish a system of licensing for the development, production, and use of artificial intelligence.
+**(a) IN GENERAL.**—The Board shall conduct a comprehensive study of, and develop recommendations regarding, whether and how the Federal Government should establish a system of licensing for the development, production, and use of artificial intelligence and for the production, distribution, possession, and operation of artificial intelligence hardware.
 
 **(b) MATTERS TO BE CONSIDERED.**—In carrying out subsection (a), the Board shall consider—
 
 1. whether a system of licensing for the development or production of artificial intelligence is advisable and, if so, the potential scope, structure, and administration of such a system;
 2. whether a system of licensing for the use or deployment of artificial intelligence is advisable and, if so, the potential scope, structure, and administration of such a system;
-3. methods and mechanisms for ensuring compliance with, and for monitoring and auditing, any such system of licensing;
-4. methods for the enforcement of any such system of licensing, including whether civil penalties, administrative sanctions, or criminal penalties, including criminal indictment and prosecution, would be appropriate for violations, and the circumstances under which each would be appropriate;
-5. which Federal department or agency, existing or new, would be best suited to administer any such system of licensing, and the respective roles of Federal, State, local, and Tribal governments;
-6. existing licensing, certification, and registration regimes in other fields, and any lessons such regimes offer for the licensing of artificial intelligence;
-7. approaches to the licensing or regulation of artificial intelligence that have been adopted or proposed by other countries and by international bodies, and opportunities for international coordination;
-8. the potential effects of any such system of licensing on innovation, competition, small businesses, academic and nonprofit research, open-source development, national security, and the economic competitiveness of the United States; and
-9. such other matters as the Board determines relevant.
+3. whether a system of licensing for the design, manufacture, import, export, sale, or other distribution of artificial intelligence hardware is advisable and, if so, the potential scope, structure, and administration of such a system;
+4. whether a system of licensing for the possession, operation, or provision of access to artificial intelligence hardware, including large-scale computing facilities and cloud computing services, is advisable and, if so, the potential scope, structure, and administration of such a system;
+5. the relationship between any licensing of artificial intelligence and any licensing of artificial intelligence hardware, and the extent to which either may be used to support the other;
+6. methods and mechanisms for ensuring compliance with, and for monitoring and auditing, any such system of licensing, including any technical means of verifying the location, ownership, or use of artificial intelligence hardware;
+7. methods for the enforcement of any such system of licensing, including whether civil penalties, administrative sanctions, or criminal penalties, including criminal indictment and prosecution, would be appropriate for violations, and the circumstances under which each would be appropriate;
+8. which Federal department or agency, existing or new, would be best suited to administer any such system of licensing, and the respective roles of Federal, State, local, and Tribal governments;
+9. existing licensing, certification, and registration regimes in other fields, including existing export controls on semiconductors and computing hardware, and any lessons such regimes offer for the licensing of artificial intelligence and artificial intelligence hardware;
+10. approaches to the licensing or regulation of artificial intelligence and artificial intelligence hardware that have been adopted or proposed by other countries and by international bodies, and opportunities for international coordination;
+11. the potential effects of any such system of licensing on innovation, competition, small businesses, academic and nonprofit research, open-source development, domestic semiconductor manufacturing and supply chains, national security, and the economic competitiveness of the United States; and
+12. such other matters as the Board determines relevant.
 
 **(c) NO AUTHORITY TO REGULATE.**—Nothing in this Act shall be construed to grant the Board authority to issue, deny, or revoke any license, to promulgate any regulation, or to impose any requirement on any person. The role of the Board is solely advisory.
 
@@ -84,10 +88,10 @@ There is established in the legislative branch an independent advisory board to 
 
 **(b) QUALIFICATIONS.**—
 
-1. **IN GENERAL.**—Each member of the Board shall be an individual who has recognized expertise in artificial intelligence, computer science, or a field directly relevant to the duties of the Board, and who is—
+1. **IN GENERAL.**—Each member of the Board shall be an individual who has recognized expertise in artificial intelligence, computer science, computer engineering, semiconductors, or a field directly relevant to the duties of the Board, and who is—
    - (A) an academic expert, meaning an individual who holds, or has held, a faculty or research appointment at an institution of higher education or a nonprofit research institution; or
-   - (B) an industry expert, meaning an individual with substantial professional experience in the research, development, production, or deployment of artificial intelligence in the private sector.
-2. **BALANCE.**—Of the 3 members appointed by each appointing official under subsection (a), at least 1 shall be an academic expert and at least 1 shall be an industry expert. The appointing officials shall consult with one another with the goal of ensuring that the Board as a whole reflects a balance of academic and industry expertise and a diversity of technical and disciplinary perspectives, including expertise in law, ethics, economics, and security as they relate to artificial intelligence.
+   - (B) an industry expert, meaning an individual with substantial professional experience in the private sector in the research, development, production, or deployment of artificial intelligence, or in the design, manufacture, or operation of artificial intelligence hardware.
+2. **BALANCE.**—Of the 3 members appointed by each appointing official under subsection (a), at least 1 shall be an academic expert and at least 1 shall be an industry expert. The appointing officials shall consult with one another with the goal of ensuring that the Board as a whole reflects a balance of academic and industry expertise and a diversity of technical and disciplinary perspectives, including expertise in computing hardware, law, ethics, economics, and security as they relate to artificial intelligence.
 3. **FEDERAL OFFICERS AND EMPLOYEES.**—An individual appointed to the Board may not be an officer or employee of the Federal Government, other than an individual serving in a part-time or advisory capacity.
 
 **(c) CONFLICTS OF INTEREST.**—Each member of the Board shall, before taking office and annually thereafter, publicly disclose any financial interest, employment, or other affiliation that is relevant to the duties of the Board. The Board shall adopt written procedures for the recusal of members with respect to matters in which a member has a conflict of interest.
@@ -121,7 +125,7 @@ There is established in the legislative branch an independent advisory board to 
 
 **(d) POSTAL SERVICES.**—The Board may use the United States mails in the same manner and under the same conditions as other departments and agencies of the Federal Government.
 
-**(e) GIFTS.**—The Board may accept, use, and dispose of gifts or donations of services or property, except that the Board may not accept any gift or donation from any person or entity that develops, produces, or deploys artificial intelligence for commercial purposes.
+**(e) GIFTS.**—The Board may accept, use, and dispose of gifts or donations of services or property, except that the Board may not accept any gift or donation from any person or entity that develops, produces, or deploys artificial intelligence, or that designs, manufactures, or sells artificial intelligence hardware, for commercial purposes.
 
 **(f) CONTRACTS.**—The Board may enter into contracts with, and make other arrangements with, public agencies, private organizations, and individuals to the extent necessary to carry out its duties.
 
@@ -160,7 +164,8 @@ Chapter 10 of title 5, United States Code (commonly referred to as the "Federal 
 In this Act:
 
 1. **ARTIFICIAL INTELLIGENCE.**—The term "artificial intelligence" has the meaning given such term in section 5002 of the National Artificial Intelligence Initiative Act of 2020 (15 U.S.C. 9401).
-2. **INSTITUTION OF HIGHER EDUCATION.**—The term "institution of higher education" has the meaning given such term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
+2. **ARTIFICIAL INTELLIGENCE HARDWARE.**—The term "artificial intelligence hardware" means semiconductors, integrated circuits, computing systems, and computing facilities (including data centers) that are designed, configured, or used for the training, development, or operation of artificial intelligence, together with the equipment and tools used to manufacture such semiconductors and integrated circuits. The Board may recommend to Congress any refinement of this definition.
+3. **INSTITUTION OF HIGHER EDUCATION.**—The term "institution of higher education" has the meaning given such term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
 
 ## SEC. 12. AUTHORIZATION OF APPROPRIATIONS.
 
