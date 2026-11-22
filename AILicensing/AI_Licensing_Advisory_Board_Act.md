@@ -10,8 +10,8 @@
 
 <div align="center">
 
-119TH CONGRESS<br>
-2D SESSION
+120TH CONGRESS<br>
+1ST SESSION
 
 # H. R. ______
 
@@ -21,7 +21,7 @@ To establish the Artificial Intelligence Licensing Advisory Board to study and m
 
 IN THE HOUSE OF REPRESENTATIVES
 
-______________, 2026
+______________, 2027
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (for themself and \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_) introduced the following bill; which was referred to the Committee on \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, and in addition to the Committee on \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned
 
@@ -39,7 +39,7 @@ To establish the Artificial Intelligence Licensing Advisory Board to study and m
 
 ## SECTION 1. SHORT TITLE.
 
-This Act may be cited as the "**Artificial Intelligence Licensing Advisory Board Act of 2026**".
+This Act may be cited as the "**Artificial Intelligence Licensing Advisory Board Act of 2027**".
 
 ## SEC. 2. FINDINGS.
 
@@ -164,7 +164,7 @@ In this Act:
 
 ## SEC. 12. AUTHORIZATION OF APPROPRIATIONS.
 
-There are authorized to be appropriated to carry out this Act such sums as may be necessary for each of fiscal years 2027 and 2028, to remain available until expended.
+There are authorized to be appropriated to carry out this Act such sums as may be necessary for each of fiscal years 2027 through 2029, to remain available until expended.
 
 ---
 
